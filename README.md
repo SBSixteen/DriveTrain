@@ -2,7 +2,7 @@
 DriveTrain is a very basic car database with cool visual finesse and aesthetic.
 Mainly inspired by my recent Phonk addiction.
 
-Expected Feautres:
+Expected Features:
 Stolen Phonk Music
 & Cars
 
