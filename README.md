@@ -8,4 +8,6 @@ Stolen Phonk Music
 
 Exclusive use of Java Swing
 
+Extract DriveTrain.rar to local disk C and run the java file "ManSelect.java" for v0.1
+
 Estimated Date of Completion. March of 2021
